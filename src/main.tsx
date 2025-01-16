@@ -56,7 +56,7 @@ export const App = () => {
         </div>
         <div className="stack-icons">
           <img src={viteLogo} className="logo" alt="" />
-          <span> + </span>
+          <span className="bg-amber-500"> + </span>
           <img src={reactLogo} className="logo" alt="" />
           <span> + </span>
           <img src={tsLogo} className="logo" alt="" />
