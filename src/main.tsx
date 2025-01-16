@@ -65,7 +65,7 @@ export const App = () => {
         </div>
         <div className="button-group">
           <button onClick={increment}>count is {count}</button>
-          <button onClick={helloWorld}>Hello World</button>
+          <button onClick={helloWorld}>Hello Worlds</button>
           <button onClick={hybridTest}>Hybrid</button>
         </div>
         <div>
